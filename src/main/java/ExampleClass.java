@@ -3,7 +3,7 @@ import java.net.URL;
 import java.util.Scanner;
 
 /**
- * Calculates the amount of times "Prince" is said in Hamlet.
+ * Calculates the amount of times that "Prince" is said in Hamlet.
  * @author jordan kahn
  *
  */
